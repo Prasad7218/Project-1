@@ -1,0 +1,10 @@
+.loginpage{
+  display: flex;
+  justify-content:center;
+}
+.loginbtn{
+  border-radius:12px;
+  width: 120px;
+  height:30px;
+  background-color:cyan;
+}
