@@ -1,6 +1,12 @@
-.loginpage{
+.container{
+  margin-top:160px;
+  height:200px;
   display: flex;
   justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  justify-content:space-between;
+  
 }
 .loginbtn{
   border-radius:12px;
