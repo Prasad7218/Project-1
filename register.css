@@ -1,14 +1,28 @@
 .container{
-  height:400px;
+  height:200px;
   display: flex;
   justify-content:center;
   align-items:center;
   flex-direction:column;
   justify-content:space-between;
 }
+
+.labels{
+position:relative;
+right:160px;
+top:25px;
+}
+
 .registerbtn{
   border-radius:12px;
   width: 120px;
   height:30px;
-  background-color:cyan;
+  background-color:cyan; 
+}
+.head{
+  text-align:center;
+}
+.button{
+  margin-top:20px;
+  text-align:center;
 }

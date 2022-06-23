@@ -1,0 +1,23 @@
+.tablehead{
+   background-color:rgba(128,128,128,0.4);
+}
+.sections{
+  display: flex;
+  flex-direction:row;
+}
+.btn{
+  width:340px;
+  height:50px;
+}
+.uploadbtn{
+  border-radius:12px;
+  width: 120px;
+  height:30px;
+  background-color:cyan;
+}
+.table{
+  width:100%;
+}
+.sharebtn{
+  color:black;
+}

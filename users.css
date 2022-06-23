@@ -6,6 +6,13 @@
   flex-direction:row;
 }
 .btn{
-  width:400px;
+  width:350px;
   height:50px;
+}
+.btn1{
+  width: 80px;
+  height:30px;
+}
+.tablehead{
+  background-color:rgba(128,128,128,0.4);
 }

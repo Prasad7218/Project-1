@@ -1,0 +1,26 @@
+.head{
+  text-align:center;
+  border-style:solid;
+}
+.chat{
+  height:30px;
+  margin-top:250px;
+  display: flex;
+  flex-direction:row;
+  border-style:solid;
+}
+.input{
+  margin-top: 5px;
+  width:1000px;
+}
+.btn1{
+  margin-top: 5px;
+  margin-left:10px;
+  height: 20px;
+}
+.btn2{
+  margin-top: 5px;
+  margin-left:20px;
+  height: 20px;
+  
+}

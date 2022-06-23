@@ -1,0 +1,8 @@
+.sections{
+  display: flex;
+  flex-direction:row;
+}
+.btn{
+  width:350px;
+  height:50px;
+}

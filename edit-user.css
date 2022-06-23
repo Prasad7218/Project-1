@@ -1,0 +1,17 @@
+.editpage{
+  margin-top:160px;
+  height:200px;
+  display: flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  justify-content:space-between;
+  
+}
+
+.btn{
+  border-radius:12px;
+  width: 120px;
+  height:30px;
+  background-color:cyan;
+}
